@@ -1,0 +1,4 @@
+C:\Users\minec_000\Desktop\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\minec_000\Desktop\ConsoleApplication\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\minec_000\Desktop\ConsoleApplication\ConsoleApplication\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\minec_000\Desktop\ConsoleApplication\ConsoleApplication\obj\x86\Debug\ConsoleApplication.pdb
